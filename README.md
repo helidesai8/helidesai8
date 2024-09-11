@@ -5,8 +5,8 @@
 👋 Hi, I'm Heli Desai, a passionate Software Engineer with a love for flowers—especially daisies! My work focuses on Machine Learning, Cloud Computing, and Full-Stack Development, with a flair for creativity and aesthetics.
 
 ## 🌸 Technologies & Tools
-- **Languages**: Python, Java, C++, SQL
-- **Frameworks**: Django, Flask, FastAPI, TensorFlow, PyTorch
+- **Languages**: Python, Java, C++, SQL, Javascript, TypeScript
+- **Frameworks**: Django, Flask, FastAPI, TensorFlow, PyTorch, React
 - **Cloud**: AWS (S3, Lambda, DynamoDB, RDS, EC2)
 - **Tools**: Git, Docker, Jenkins, Kubernetes, Redis, Bash
 - **Machine Learning**: NLP, Computer Vision, Deep Learning
